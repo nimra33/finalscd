@@ -9,6 +9,15 @@ void updatecourse();
 void enrollcourse();
 void organizecourse();
 
+
+
+void authentication()
+{
+cout <<"user authentication sucessfully completed"<<endl;
+cout <<"user see thier roll number"<<endl;
+cout <<"user authentication failed"<<endl;
+
+}
 int main ()
 {
 
