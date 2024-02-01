@@ -1,0 +1,20 @@
+#include<iostream>
+using namespace std;
+
+
+public :
+void authentication();
+void createcourse();
+void updatecourse();
+void enrollcourse();
+void organizecourse();
+
+int main ()
+{
+
+
+
+}
+
+
+
