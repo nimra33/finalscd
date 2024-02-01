@@ -18,6 +18,13 @@ cout <<"user see thier roll number"<<endl;
 cout <<"user authentication failed"<<endl;
 
 }
+void enrollcourse()
+{
+cout <<"user enrollcourse sucessfully completed"<<endl;
+cout <<"user see thier course number"<<endl;
+cout <<"user enrollment failed"<<endl;
+    
+}
 int main ()
 {
 
